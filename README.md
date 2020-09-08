@@ -9,7 +9,7 @@ in python2. Attacks against Round5 and Frodo are in python3.
 
 Folders called *data* contain the binary trees in a specific format defined in scripts called *BinaryTree?D.py*, where ? denotes the dimension of the attack. These scripts are also used to read the trees from the file. 
 
-The attacks are then in scripts called *?D.py*, where ? denotes the dimension of the attack. Scripts called *Functions* contain functions used in the schemes and in the attack,
+The attacks are then in scripts called *?D.py*, where ? denotes the dimension of the attack. Scripts called *Functions* contain other functions used in the schemes and in the attack,
 e.g. generation of secrets, decoding, oracle etc. 
 
 
