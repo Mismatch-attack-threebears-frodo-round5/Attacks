@@ -1,5 +1,5 @@
 This repository contains supplementary material to the paper *Key Mismatch Attack on ThreeBears, Frodo and
-Round5*
+Round5*.
 
 There are three folders - *Frodo*, *Round5* and *ThreeBears* - each corresponding to the particular scheme. The folder *Round5* is further divided 
 according to the variant it is based on.
