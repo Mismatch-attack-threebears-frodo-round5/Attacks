@@ -1,6 +1,6 @@
 from random import randrange
 from math import ceil, floor
-from Keccak import cSHAKE256
+from Functions import cSHAKE256
 
 class InvalidCiphertextException(Exception): pass
 class InvalidParameterException(Exception): pass
