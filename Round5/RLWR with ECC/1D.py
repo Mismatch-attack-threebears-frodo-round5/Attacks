@@ -40,7 +40,7 @@ def Recover(root, S, version):
 # NIST security level 1:
 queries = 0
 version = 1
-total = 5
+total = 1
 correct = 0
 q, p, t, b, n, h, mu = getParameters(version)
 root = reconstruct(readjson('data\code_RLWR_1_1D.txt'))
