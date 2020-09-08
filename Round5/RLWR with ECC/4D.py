@@ -1,4 +1,4 @@
-from ECC_07_09_2020 import *
+from Functions import *
 from BinaryTree4D import *
 
 # function that recovers the coefficients
